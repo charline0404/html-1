@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>basic html webpage</title>
+</head>
+<body>
+    <a href="https://www.youtube.com/watch?v=uoqJy_AEt-E">高清無碼</a>
+    <br/>
+    <a href="https://www.youtube.com/watch?v=uoqJy_AEt-E">
+        <img src="https://3.bp.blogspot.com/-ESKa094a5SE/VSNC5gGvIaI/AAAAAAAAC_4/v_PnX79i0h8/s1600/emma-watson.jpg"
+        width="200" height="250" >
+    </a>
+    <table border="5">
+        <tr>
+            <th bgcolor="yellow">name</th>
+            <th>gender</th>
+            <th>age</th>
+        </tr>
+        <tr>
+            <td>Elisa</td>
+            <td>female</td>
+            <td>32</td>
+        </tr>
+    </table>
+    <br/>
+    <ol>
+        <li>哈囉</li>
+        <li>哈囉</li>
+        <li>嘿</li>
+    </ol>
+    <ul>
+        <li>I'm</li>
+        <li>not</li>
+        <li>cool</li>
+    </ul>
+    <input type="button" value="Try me !" 
+    onclick="location.href='https://www.youtube.com/watch?v=1xlASR2bfGk'">
+    <h1 style="background-color:#169670;color:#fff">床前明月光</h1>
+    <h2 style="background-color:#770d92;color:#fff">李白打開窗</h2>
+    <h3>看見EX光</h3>
+    <p style="background-color: darkslateblue;color: deeppink;">牙齒掉光光</p>
+    <div style="background-color: darkslateblue;color: deeppink;">
+        <h1 style="background-color:#169670;color:#fff">床前明月光</h1>
+        <h2><span style="background-color:#d35877;color:#fff">李白</span>打開窗</h2>
+        <h3>看見EX光</h3>
+        <p>牙齒掉光光</p>
+    </div>
+    <br/>
+</body>
+</html>
